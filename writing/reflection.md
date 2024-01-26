@@ -1,11 +1,5 @@
 # Data Types
 
-TODO: Please remove the TODO markers and notes from this file
-so that the final document is written in a professional fashion
-suitable for publication. If you have questions about how to
-structure, format, and write this document, please ask for a
-preliminary assessment of your work in advance of the deadline.
-
 ## Molly Suppo
 
 ## Program Output
@@ -45,5 +39,3 @@ The value of `1/3` according to the Python language is `0.3333333333333333`. Thi
 ### Why is the value of `.33333 + .33333 + .33333 == 1` equal to `False`?
 
 The value of `.33333 + .33333 + .33333 == 1` is equal to `False` because the computer does not have the "common sense" to round here. It gets close to 1, but will not equal 1 in this case. In addition, the computer also has an interesting property of floating point values it follows that humans typically do not. Floating point addition tends to opperate almost like a limit in these types of scenarios. The result comes close to what we anticipate the answer to be, but it does not reach it.
-
-(Did you remember to add your name?!)
